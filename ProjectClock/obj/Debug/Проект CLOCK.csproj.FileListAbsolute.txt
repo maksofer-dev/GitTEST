@@ -1,0 +1,20 @@
+D:\Проект CLOCK\bin\Debug\Проект CLOCK.exe.config
+D:\Проект CLOCK\bin\Debug\Проект CLOCK.exe
+D:\Проект CLOCK\bin\Debug\Проект CLOCK.pdb
+D:\Проект CLOCK\obj\Debug\Проект CLOCK.csprojAssemblyReference.cache
+D:\Проект CLOCK\obj\Debug\Проект_CLOCK.Form1.resources
+D:\Проект CLOCK\obj\Debug\Проект_CLOCK.Properties.Resources.resources
+D:\Проект CLOCK\obj\Debug\Проект CLOCK.csproj.GenerateResource.cache
+D:\Проект CLOCK\obj\Debug\Проект CLOCK.csproj.CoreCompileInputs.cache
+D:\Проект CLOCK\obj\Debug\Проект CLOCK.exe
+D:\Проект CLOCK\obj\Debug\Проект CLOCK.pdb
+E:\Проект CLOCK\bin\Debug\Проект CLOCK.exe.config
+E:\Проект CLOCK\bin\Debug\Проект CLOCK.exe
+E:\Проект CLOCK\bin\Debug\Проект CLOCK.pdb
+E:\Проект CLOCK\obj\Debug\Проект CLOCK.csprojAssemblyReference.cache
+E:\Проект CLOCK\obj\Debug\Проект_CLOCK.Form1.resources
+E:\Проект CLOCK\obj\Debug\Проект_CLOCK.Properties.Resources.resources
+E:\Проект CLOCK\obj\Debug\Проект CLOCK.csproj.GenerateResource.cache
+E:\Проект CLOCK\obj\Debug\Проект CLOCK.csproj.CoreCompileInputs.cache
+E:\Проект CLOCK\obj\Debug\Проект CLOCK.exe
+E:\Проект CLOCK\obj\Debug\Проект CLOCK.pdb
